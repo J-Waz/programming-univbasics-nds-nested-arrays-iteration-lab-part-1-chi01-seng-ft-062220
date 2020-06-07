@@ -10,6 +10,6 @@ def find_even_values(src)
   #
   # Output all even values in each nested array
 
-find_even_values(src)
+find_even_values(array_of_arrays)
 
 end
