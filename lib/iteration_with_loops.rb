@@ -1,6 +1,6 @@
 def find_even_values(src)
   
-  src = [
+  array_of_arrays = [
     [10, 11], 
     [99, 50, 3, 4], 
     [23, 41]
@@ -10,6 +10,6 @@ def find_even_values(src)
   #
   # Output all even values in each nested array
 
-puts find_even_values(src)
+find_even_values(src)
 
 end
